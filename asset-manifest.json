@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/olympia/static/css/main.e45f705d.css",
+    "main.js": "/olympia/static/js/main.75866071.js",
+    "static/js/787.8afd0638.chunk.js": "/olympia/static/js/787.8afd0638.chunk.js",
+    "index.html": "/olympia/index.html",
+    "main.e45f705d.css.map": "/olympia/static/css/main.e45f705d.css.map",
+    "main.75866071.js.map": "/olympia/static/js/main.75866071.js.map",
+    "787.8afd0638.chunk.js.map": "/olympia/static/js/787.8afd0638.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45f705d.css",
+    "static/js/main.75866071.js"
+  ]
+}
